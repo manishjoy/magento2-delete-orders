@@ -1,0 +1,22 @@
+{
+    "name": "manishjoy/magento2-delete-orders",
+    "description": "extension for deleting orders in magento 2",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "magento/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            [
+                "*",
+                "ManishJoy/DeleteOrders"
+            ]
+        ]
+    }
+}
