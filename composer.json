@@ -1,5 +1,5 @@
 {
-    "name": "manishjoy/magento2-delete-orders",
+    "name": "thecodingtutor/magento2-delete-orders",
     "description": "extension for deleting orders in magento 2",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -11,11 +11,19 @@
         "php": "~5.5.0|~5.6.0|~7.0.0",
         "magento/magento-composer-installer": "*"
     },
+    "authors": [
+        {
+          "name": "Manish Joy",
+          "email": "support@thecodingtutor.com",
+          "homepage": "http://thecodingtutor.com/",
+          "role": "Developer"
+        }
+    ],
     "extra": {
         "map": [
             [
                 "*",
-                "ManishJoy/DeleteOrders"
+                "TheCodingTutor/DeleteOrders"
             ]
         ]
     }

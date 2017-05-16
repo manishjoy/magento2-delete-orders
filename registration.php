@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'ManishJoy_DeleteOrders',
+    'TheCodingTutor_DeleteOrders',
     __DIR__
 );
