@@ -1,8 +1,8 @@
 # Magento Delete Orders (TheCodingTutor_DeleteOrders) v1.0.0
 ## Magento 2 Extension
 
-#### The store owners may want to remove unnecessary orders which have been canceled, closed, or created just for testing purposes. But, Magento 2 default functionalities does not allow the admin to completely remove redundant orders, invoices, shipments, or credit memos. Instead, it only allows cancelling them, which can lead to inconvenience in backend management.
-#### Well, in order to solve this problem, this extension has been developed. This extension is easy to use as it seems like the default functionality and can easily be used.
+The store owners may want to remove unnecessary orders which have been canceled, closed, or created just for testing purposes. But, Magento 2 default functionalities does not allow the admin to completely remove redundant orders, invoices, shipments, or credit memos. Instead, it only allows cancelling them, which can lead to inconvenience in backend management.
+Well, in order to solve this problem, this extension has been developed. This extension is easy to use as it seems like the default functionality and can easily be used.
 ___________________________________________________________________________________________________
 
 More courses and tutorials about Magento 2 visit:
