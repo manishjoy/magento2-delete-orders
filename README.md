@@ -6,5 +6,5 @@ http://thecodingtutor.com/category/magento/
 
 ### The extension is free and always will be
 ## Charges:
-#### Installation: $10
-#### Supprt: $20/6 months
+#### Installation: $ 10
+#### Support: $ 20 /6 months
