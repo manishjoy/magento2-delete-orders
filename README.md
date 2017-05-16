@@ -40,4 +40,5 @@ http://thecodingtutor.com/category/magento/
 </tbody>
 </table>
 
+___________________________________________________________________________________________________
 ### Feedback and Support <a href="mailto:support@thecodingtutor.com">support@thecodingtutor.com</a>
