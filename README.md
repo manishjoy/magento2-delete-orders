@@ -9,6 +9,7 @@ http://thecodingtutor.com/category/magento/
 #### Installation: $ 10
 #### Support: $ 20 /6 months
 
+### Use the following table to verify you have the correct prerequisites to install this Extension.
 <table>
 	<tbody>
 		<tr>
@@ -34,4 +35,4 @@ http://thecodingtutor.com/category/magento/
 </tbody>
 </table>
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#37a4db', 'A4701ITF');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/A4701ITF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
