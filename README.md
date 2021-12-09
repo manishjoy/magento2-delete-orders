@@ -5,9 +5,9 @@ The store owners may want to remove unnecessary orders which have been canceled,
 Well, in order to solve this problem, this extension has been developed. This extension is easy to use as it seems like the default functionality and can easily be used.
 ___________________________________________________________________________________________________
 
-More courses and tutorials about Magento 2 visit:
+More courses and tutorials about Magento, visit:
 
-http://thecodingtutor.com/category/magento/
+https://blog.manishjoy.com/category/coding/magento/
 
 ### The extension is free and always will be
 
@@ -54,4 +54,4 @@ ________________________________________________________________________________
 </table>
 
 ___________________________________________________________________________________________________
-### Feedback and Support <a href="mailto:support@thecodingtutor.com">support@thecodingtutor.com</a>
+### Feedback and Support <a href="mailto:support@manishjoy.com">support@manishjoy.com</a>
