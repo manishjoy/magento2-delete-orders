@@ -6,8 +6,8 @@ Well, in order to solve this problem, this extension has been developed. This ex
 ___________________________________________________________________________________________________
 
 More courses and tutorials about Magento, visit:
-
-https://blog.manishjoy.com/category/coding/magento/
+https://blog.manishjoy.com/2021/12/10/how-to-delete-orders-in-magento-2/
+https://blog.manishjoy.com/magento-development-guide/
 
 ### The extension is free and always will be
 
